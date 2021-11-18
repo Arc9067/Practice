@@ -1,0 +1,61 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.head{
+    height: 60px;
+    width: 100%;
+    background-color: #f0f8ff;
+    font-size: 0px;
+    font-size: 0px;
+    /* overflow: hidden; */
+    vertical-align: top;
+}
+
+.Head2{
+    height: 60px;
+    width: 80%;
+    background-color: yellow;
+    display: inline-block;    
+    margin-left: 10%;
+    vertical-align: top;
+}
+
+.inner_head{
+    height: 50px;
+    width: 30%;
+    background-color: green;
+    display: inline-block;
+    margin-top: 5px;
+    margin-left: 1%;
+    /* float: right; */
+    /* vertical-align: top; */
+}
+
+.inner_head1{
+    height: 50px;
+    width: 30%;
+    background-color: green;
+    display: inline-block;
+    margin-left: 40%;
+    /* vertical-align: top; */
+    /* float: right; */
+    margin-top: 5px;
+    margin-right: 1%;
+}
+
+.logo{
+    width: 80%;
+    height: 50px;
+    background-color: red ;
+    margin-left: 10%;
+    display: inline-block;
+}
+
+.logo_main{
+    width: 70%;
+}
+
+
+
